@@ -8,4 +8,4 @@
 #### .\venv\Scripts\activate => Acivate the venv
 #### pip install -r requirements.txt
 
-![screenshot](New Research Tool.png)
+![image](https://github.com/TurboJapuraEfac/LLMs/assets/54759523/153a2a37-7fa0-4273-b0dd-70d37c2aaf96)
